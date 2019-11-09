@@ -19,5 +19,6 @@ A image feature detector using opencv
   s.dependency 'OpenCV2'
 
   s.ios.deployment_target = '8.0'
+  s.static_framework = true
 end
 
